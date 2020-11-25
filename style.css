@@ -1,0 +1,1140 @@
+html{
+  font-family: Noto Sans JP;
+  font-weight: 700;
+  line-height: 0px;
+  padding: 0px;
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+}
+.button{
+  border-radius: 50px;
+  text-align: center;
+}
+.button_e{
+  letter-spacing: 4px;
+}
+.button_j{
+  font-size: 14px;
+  display: block;
+}
+.title{
+  font-family: Lato;
+  font-size: 50px;
+  line-height: 0px;
+  padding-bottom: 10px;
+}
+.subtext{
+  font-size: 14px;
+  font-family: Lato,sans-serif;
+}
+.subtext_title{
+  font-size: 16px;
+  text-align: center;
+}
+
+.toppage{
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/top-hero.png);
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 0px;
+  background-size: auto 100%;
+}
+header{
+  padding: 20px 119px;
+  width: auto;
+  height: auto;
+}
+.to_toppage{
+  height: 20px;
+  width: 185px;
+}
+.potepan_detail_counselingbutton{
+  display: inline-block;
+  float: right;
+}
+.potepan_detail{
+  color: black;
+  line-height: 5px;
+  display: inline-block;
+  padding-left: 30px;
+}
+.to_detail_e{
+  font-size: 14px;
+  text-align: center;
+}
+.to_detail_j{
+  font-size: 10px;
+  text-align: center;
+}
+.freecounseling_button{
+  background-color: orange;
+  width: 150px;
+  height: 40px;
+  display: inline-block;
+  color: white;
+  font-size: 12px;
+  line-height: 40px;
+  vertical-align: top;
+  margin-left: 20px;
+}
+.topppage_main{
+  padding-left: 119px;
+  padding-right: 119px;
+}
+.toppage_01
+{
+  display: inline-block;
+  padding-top: 110px;
+}
+.toppage01_title_subtext{
+  float: left;
+}
+.title_toppage{
+  height: 36.656px;
+  width: 337px;
+}
+.subtext_toppage{
+  font-size: 20px;
+  line-height: 34px;
+}
+.subtext_toppage_webengineer{
+  color: orange;
+}
+.img_toppage{
+  display: inline-block;
+}
+.toppage_02{
+
+}
+.freecounseling_button_big{
+  background-color: orange;
+  width: 337px;
+  height: 60px;
+  display: block;
+  color: white;
+  font-size: 16px;
+  line-height: 60px;
+}
+.topppage_bottom{
+  padding: 132px 119px 20px 119px;
+}
+.asterisk_toppage{
+  font-size: 10px;
+  color: rgb(136,136,136);
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.about{
+  padding-left: 119px;
+  padding-right: 119px;
+  background-color: rgb(247,147,20);
+  color: white;
+}
+.about_01{
+  padding-top: 75px;
+}
+.title_about{
+  font-size: 50px;
+  font-weight: 900;
+}
+.sub_title_about{
+  font-size: 40px;
+  font-weight: 700;
+  vertical-align: bottom;
+}
+.about_02{
+  padding-bottom: 80px;
+}
+.about_02_left{
+  display: inline-block;
+}
+.subtext_about{
+  display: inline-block;
+ line-height: 32.2px;
+ padding-top: 30px;
+}
+.about_02_right{
+  display: inline-block;
+  vertical-align: top;
+  height: 128px;
+  float: right;
+}
+.about_button{
+  background-color: white;
+  width: 337px;
+  height: 60px;
+  display: inline-block;
+  color: rgb(247,147,20);
+  line-height: 30px;
+  font-size: 20px;
+  font-family: Lato;
+  margin-top: 55px;
+}
+
+.feature{
+  padding-left: 119px;
+  padding-right: 119px;
+}
+.feature_top{
+  padding-top: 75px;
+}
+.block_title_feature{
+
+}
+.title_feature{
+  text-align: center;
+}
+.sub_title_feature{
+  vertical-align: bottom;
+}
+.block_subtext_title_feature{
+
+}
+.subtext_title_feature{
+
+}
+.feature_01{
+
+}
+.feature_background{
+  padding-top: 40px;
+  text-align: center;
+}
+.feature_background_circle{
+  display: inline-block;
+  position: relative;
+  top: 50px;
+}
+.number_three_reason{
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  color: rgb(247,147,20);
+  font-size: 40px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: rgb(252,250,245);
+}
+.feature_background_square{
+  display: inline-block;
+  border-radius: 20px;
+  background-color: rgb(252,250,245);
+  width: 960px;
+  padding: 40px;
+}
+.block_title_feature_each{
+
+}
+.title_feature_each{
+  font-size: 30px;
+  text-align: center;
+}
+.block_subtext_feature_each{
+
+}
+.subtext_feature_each{
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  text-align: center;
+  line-height: 32px;
+}
+.subtext_feature_each_strong{
+  font-size: 30px;
+  color: rgb(247,147,20);
+  font-family: Lato;
+}
+.img_feature_each{
+  background-color: white;
+  border-radius: 20px;
+}
+.title_example_company{
+  text-align: center;
+  font-size: 24px;
+  padding-top: 30px;
+  margin-top: 0px;
+  margin-bottom: 13px;
+}
+.border_title_example_company{
+  display: inline-block;
+  text-align: center;
+  border: solid 2px rgb(247,147,20);
+  width: 205px;
+}
+.panda_potepan{
+  height: 35px;
+  width: 34px;
+  margin-left: 10px;
+}
+.some_img_company{
+  display: inline-block;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.feature_02{
+
+}
+.feature_background{
+
+}
+.feature_background_circle{
+
+}
+.feature_background_square{
+
+}
+.block_title_feature_each{
+
+}
+.title_feature_each{
+
+}
+.block_subtext_feature_each{
+
+}
+.subtext_feature_each{
+
+}
+.subtext_feature_each_{
+  font-size: 30px;
+  color: rgb(247,147,20);
+}
+.img_feature_each{
+
+}
+.img_feature_each_02{
+  padding: 40px 70px;
+}
+.img_bargraph{
+  width: 193.328px;
+  height: 193.328px;
+}
+.img_piechart_20{
+  height: 193.328px;
+  width: 193.328px;
+  padding-left: 110px;
+}
+.img_piechart_inexperiencedperson{
+  height: 193.328px;
+  width: 193.328px;
+  padding-left: 110px;
+}
+.img_feature_each_railsengineer{
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+}
+.img_feature_each_railsengineer01{
+  display: inline-block;
+  width: 260px;
+  margin-right: 20px;
+  padding: 20px;
+}
+.img_feature_each_railsengineer02{
+  display: inline-block;
+  width: 260px;
+  margin-right: 20px;
+  padding: 20px;
+}
+.img_feature_each_railsengineer03{
+  display: inline-block;
+  width: 260px;
+  padding: 20px;
+}
+.content_img_feature_each_railsengineer{
+
+}
+.block_img_company{
+  height: 100px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.img_company{
+  margin:0 auto;
+}
+.pic_engineer{
+  display: inline-block;
+}
+.title_railsengneer{
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 18px;
+}
+
+.title_railsengneer_companyname{
+  color: rgb(247,147,20);
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 21px;
+}
+.letter_railsengineer{
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 30px;
+}
+.speachbubble_railsengineer{
+
+}
+.block_triangle_speechbubble{
+  padding-left: 10px;
+}
+.triangle_speechbubble{
+  display: inline-block;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid rgb(246,246,246);
+  border-left: 15px solid transparent;
+
+}
+.square_speechbubble{
+  background-color: rgb(246,246,246);
+  border-radius: 10px;
+}
+.coment_railsengineer{
+  margin-top: 0px;
+  font-size: 14px;
+  padding: 20px;
+  line-height: 21px;
+  text-align: left;
+}
+
+.course{
+
+}
+.content_course{
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/bg-section-top-course.png);
+  background-repeat: no-repeat;
+  background-size: 281px 275px;
+  background-position-x: 850px;
+  background-position-y: 40px;
+  background-color: rgb(246,246,246);
+  padding: 75px 90px;
+}
+.block_title_course{
+
+}
+.title_course{
+  text-align: center;
+}
+.block_subtext_course{
+
+}
+.subtext_course{
+  text-align: center;
+}
+.block_course_each{
+
+}
+.block_course_each_content{
+  background-color: white;
+  display: block;
+  margin-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.block_course_each_content_web{
+
+}
+.block_course_each_content_rails{
+
+}
+.block_title_course_each{
+  display: inline-block;
+  width: 285.125px;
+  height: 102px;
+}
+.block_title_course_each_web{
+  border: 3px solid rgb(247,147,20);
+  margin-left: -25px;
+}
+.block_title_course_each_rails{
+  border: 3px solid rgb(247,83,7);
+  margin-left: -25px;
+}
+.title_course_each{
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  line-height: 30px;
+}
+.block_content_course_each{
+  display: inline-block;
+}
+.content_course_each{
+  list-style: none;
+}
+.content_course_each_web{
+  color: rgb(247,147,20);
+}
+.content_course_each_rails{
+  color: rgb(247,83,7);
+}
+.conditions_course{
+  display: inline-block;
+  padding: 2px 20px;
+  list-style: none;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 20px;
+  width: 56px;
+  height: 21px;
+  line-height: 20px;
+}
+.conditions_course_list{
+  list-style: none;
+  color: black;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 7px;
+  padding-top: 10px;
+}
+.conditions_course_list:before{
+  content: "・";
+  color: rgb(247,147,20);
+}
+.block_detail_course{
+  display: inline-block;
+  vertical-align: bottom;
+}
+.block_detail_course01{
+  position: relative;
+  left: 100px;
+}
+.block_detail_course02{
+  position: relative;
+  left: 160px;
+}
+.detail_course{
+  display: inline-block;
+  color: rgb(165,152,136);
+  font-size: 12px;
+}
+.arrow_detail_course{
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border: solid 3px;
+  border-color: rgb(247,146,20) rgb(247,146,20) transparent transparent;
+  transform: rotate(45deg);
+  margin-left: auto;
+  margin-right: auto;
+}
+.block_course_button{
+  text-align: center;
+  margin-top: 60px;
+}
+.course_button{
+  background-color: rgb(247,146,20);
+  width: 300px;
+  height: 60px;
+  display: inline-block;
+  color: white;
+  line-height: 30px;
+  font-size: 20px;
+  font-family: Lato;
+}
+
+.message{
+  background-color: rgb(252,250,245);
+  height: 780px;
+}
+.content_message{
+  padding: 75px 90px 80px 90px;
+}
+.block_title_message{
+
+}
+.title_message{
+  text-align: center;
+  font-size: 46px;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.block_subtext_message{
+  margin-top: 10px;
+}
+.subtext_message{
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 10px;
+}
+.block_message{
+  position: relative;
+}
+.block_letter_message{
+  display: inline-block;
+  margin-left: 20px;
+  position: absolute;
+  z-index: 4;
+}
+.letter_message{
+  color: rgb(255,128,44);
+  font-size: 50px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  font-family: Lato;
+}
+.block_president_message{
+  display: inline-block;
+  background-color: white;
+  vertical-align: text-top;
+  position: absolute; top: 50px;
+  z-index: 1;
+}
+.block_content_message{
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+  padding: 40px 150px 40px 40px;
+  width: 550px;
+}
+.par1_content_message{
+
+}
+.par2_content_message{
+ padding-top: 40px;
+}
+.par3_content_message{
+  padding-top: 40px;
+}
+.block_pic_president{
+  position: absolute; top: 170px; right: 0px;
+  z-index: 2;
+}
+.pic_president{
+
+}
+.block_name_president{
+  position: absolute; top: 20px; left: 20px;
+  z-index: 3;
+}
+.name_president{
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  text-shadow: rgb(128,128,128);
+  position: relative;
+  line-height: 24px;
+}
+.letter_miyazaki{
+ font-size: 24px;
+}
+
+.interview{
+
+}
+.content_interview{
+  padding: 75 90 80 90px;
+  width: 1040px;
+  margin-right: 0px;
+}
+.block_title_interview{
+
+}
+.title_interview{
+  text-align: center;
+}
+.block_subtext_interview{
+
+}
+.subtext_interview{
+  text-align: center;
+}
+.block_interview_each{
+  width: 1040px;
+}
+.block_interview{
+  width: 320px;
+  display: table-cell;
+  padding-top: 30px;
+}
+.block_interview01{
+  width: 320px;
+  padding-right: 70px;
+}
+.block_interview02{
+ width: 320px;
+ padding-right: 70px;
+}
+.block_interview03{
+  width: 320px;
+}
+.block_img_interview{
+  height: 320px;
+  background-size: auto 100%;
+  background-position: center;
+}
+.block_img_interview01{
+  background-image: url(https://camp.potepan.com/wp-content/uploads/2020/11/坂本さん.jpg);
+}
+.block_img_interview02{
+  background-image: url(https://camp.potepan.com/wp-content/uploads/2020/11/坂井さん.jpg);
+}
+.block_img_interview03{
+  background-image: url(https://camp.potepan.com/wp-content/uploads/2020/11/清水さん.jpg);
+}
+.block_info_interview{
+  display: inline-block;
+  width: 280px;
+  height: 64px;
+  padding-top: 236px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.block_info_interview01{
+
+}
+.block_info_interview02{
+
+}
+.block_info_interview03{
+
+}
+.block_classname_interview{
+
+}
+.block_classname_interview01{
+
+}
+.block_classname_interview02{
+
+}
+.block_classname_interview03{
+
+}
+.classname_interview{
+  color: rgb(247,147,20);
+  font-size: 16px;
+}
+.classname_interview01{
+
+}
+.classname_interview02{
+
+}
+.classname_interview03{
+
+}
+.border_classname_interview{
+  border: solid 1px white;
+}
+.border_classname_interview_01{
+
+}
+.border_classname_interview02{
+
+}
+.border_classname_interview03{
+
+}
+.block_name_prejob_interview{
+
+}
+.block_name_prejob_interview01{
+
+}
+.block_name_prejob_interview02{
+
+}
+.block_name_prejob_interview03{
+
+}
+.name_interview{
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+}
+.name_interview01{
+
+}
+.name_interview02{
+
+}
+.name_interview03{
+
+}
+.prejob_interview{
+  color: white;
+  font-size: 12px;
+  display: inline-block;
+  padding-left: 15px;
+}
+.prejob_interview01{
+
+}
+.prejob_interview02{
+
+}
+.prejob_interview03{
+
+}
+.block_coment_interview{
+
+}
+.block_coment_interview01{
+
+}
+.block_coment_interview02{
+
+}
+.block_coment_interview03{
+
+}
+.coment_interview{
+  color: black;
+  font-size: 15px;
+  line-height: 27px;
+}
+.coment_interview01{
+
+}
+.coment_interview02{
+
+}
+.coment_interview03{
+
+}
+.block_button_interview{
+  text-align: center;
+}
+.button_interview{
+  background-color: rgb(247,146,20);
+  width: 300px;
+  height: 60px;
+  display: inline-block;
+  color: white;
+  line-height: 30px;
+  font-size: 20px;
+  font-family: Lato;
+  margin-top: 60px;
+}
+.button_e{
+
+}
+.button_j{
+
+}
+
+.service{
+  background-color: rgb(246,246,246);
+}
+.content_service{
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/bg-section-top-course.png);
+  background-repeat: no-repeat;
+  background-size: 281px 275px;
+  background-position-x: 850px;
+  background-position-y: 40px;
+  padding: 40 119 80 119px;
+}
+.block_title_service{
+  text-align: center;
+  padding-top: 40px;
+}
+.title_service{
+
+}
+.block_subtext_service{
+  text-align: center;
+}
+.subtext_service{
+
+}
+.block_border_subtext{
+  text-align: center;
+  height: 5px;
+  padding-top: 20px;
+}
+.border_subtext{
+  display: inline-block;
+  border: solid rgb(247,147,20);
+  border-width: 3px 25px;
+}
+.block_service_each{
+
+}
+.block_service{
+  width: 320px;
+  height: 294px;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 60px;
+}
+.block_service01{
+  padding-right: 10px;
+}
+.block_service02{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.block_service03{
+  padding-left: 10px;
+}
+.block_img_service{
+  background-color: white;
+  width: 320px;
+  height: 190px;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 10px;
+  border: solid 2px;
+}
+.block_img_service01{
+  border-color: rgb(252,104,3);
+}
+.block_img_service02{
+  border-color: rgb(8,175,119);
+}
+.block_img_service03{
+  border-color: black;
+}
+.img_service{
+  width: 276px;
+  height: 88.125px;
+  padding-top: 50px;
+}
+.img_service01{
+
+}
+.img_service02{
+
+}
+.img_service03{
+
+}
+.block_sentence_service{
+
+}
+.block_sentence_service01{
+
+}
+.block_sentence_service02{
+
+}
+.block_sentence_service03{
+
+}
+.sentence_service{
+  line-height: 28.8px;
+  color: black;
+  padding-top: 20px;
+}
+.sentence_service01{
+
+}
+.sentence_service02{
+
+}
+.sentence_service03{
+
+}
+
+.between_service_bottom{
+  display: flex;
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  align-items: center;
+  text-align: center;
+  float: right;
+  margin-right: 119px;
+  position: relative;
+  bottom: 25px;
+  box-shadow: 0px 0px 0px black;
+}
+.arrow_between_service_bottom{
+  width: 7px;
+  height: 7px;
+  border: solid 3px;
+  border-color: rgb(247,146,20) transparent transparent rgb(247,146,20);
+  transform: rotate(45deg);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom{
+  color: white;
+  background-color: rgb(247,147,20);
+}
+.content_bottom{
+  padding: 40 119 40 119px;
+  display: flex;
+  height: 374px;
+  width: 1040px;
+}
+.block_info_potepan_bottom{
+  display: inline-block;
+  flex: 1;
+}
+.block_potepanlogo_e_bottom{
+
+}
+.img_potepanlogo_e_bottom{
+  width: 280px;
+  height: 30px;
+  font-weight: 400;
+}
+.block_potepanlogo_j_bottom{
+  padding-top: 25px;
+}
+.potepanlogo_j_bottom{
+  font-size: 16px;
+}
+.block_address_potepan{
+}
+.address_potepan{
+  line-height: 24px;
+  font-size: 16px;
+}
+.block_sns_potepan{
+  padding-top: 35px;
+}
+.block_fb_potepan{
+
+}
+.img_fb{
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+.block_tw_potepan{
+
+}
+.img_tw{
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  padding-left: 20px;
+}
+.block_copyright_potepan{
+  padding-top: 60px;
+}
+.copyright_potepan{
+  font-size: 12px;
+  font-weight: 400;
+}
+.block_detail_potepan_bottom{
+  display: inline-block;
+  vertical-align: top;
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  flex: 1;
+  flex-direction: column;
+}
+.block_about_bottom{
+  color: white;
+  display: inline-block;
+}
+.block_about_bottom_e{
+  display: inline-block;
+}
+.about_bottom_e{
+}
+.block_about_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.about_bottom_j{
+}
+.block_flow_bottom{
+  color: white;
+  display: inline-block;
+  padding-top: 30px;
+}
+.block_flow_bottom_e{
+  display: inline-block;
+}
+.flow_bottom_e{
+}
+.block_flow_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.flow_bottom_j{
+}
+.block_course_bottom{
+  color: white;
+  display: inline-block;
+  padding-top: 30px;
+}
+.block_course_bottom_e{
+  display: inline-block;
+}
+.course_bottom_e{
+}
+.block_course_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.course_bottom_j{
+}
+.block_interview_bottom{
+  color: white;
+  display: inline-block;
+  padding-top: 30px;
+}
+.block_interview_bottom_e{
+  display: inline-block;
+}
+.interview_bottom_e{
+}
+.block_interview_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.interview_bottom_j{
+}
+.block_faq_bottom{
+  color: white;
+  display: inline-block;
+  padding-top: 30px;
+}
+.block_faq_bottom_e{
+  display: inline-block;
+}
+.faq_bottom_e{
+}
+.block_faq_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.faq_bottom_j{
+}
+.block_company_bottom{
+  color: white;
+  display: inline-block;
+  padding-top: 30px;
+}
+.block_company_bottom_e{
+  display: inline-block;
+}
+.company_bottom_e{
+}
+.block_company_bottom_j{
+  display: inline-block;
+  padding-left: 16px;
+}
+.company_bottom_j{
+}
+.block_img_bottom{
+  flex-direction: column;
+  margin-top: auto;
+  position: relative;
+  bottom: 30px;
+}
+.img_bottom{
+  width: 121.5px;
+  height: 70px;
+}
